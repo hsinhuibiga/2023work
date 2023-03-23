@@ -1,0 +1,1 @@
+SELECT CONCAT(glctry, glfy) as 年份,glpn as 月份,GLAA as 退地金額 FROM [dbo].['Select f0911_pd_mv$']
